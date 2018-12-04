@@ -7,7 +7,7 @@ List all git's logs commits from a given directory, date and author
 Download into your home/bin directory and add execution permissions
 ```
 wget -O ~/bin/commits https://raw.githubusercontent.com/fmgarate/commits/master/commits.py
-chmod +x ~/bin/commits`
+chmod +x ~/bin/commits
 ```
 
 ### Usage
